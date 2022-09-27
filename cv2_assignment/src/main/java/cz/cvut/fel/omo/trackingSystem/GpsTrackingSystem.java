@@ -8,5 +8,11 @@ import java.util.List;
  * GpsTrackingSystem class represents the newly introduced tool for gaining control over company car park.
  */
 public class GpsTrackingSystem {
-    // IMPLEMENT ME, PLEASE!
+
+    private List<Tracker> activeTrackers = new ArrayList<>();
+    private Integer counter = 0;
+
+    public GpsTrackingSystem(Integer counter) {
+        this.counter = counter;
+    }
 }
