@@ -1,4 +1,4 @@
-package main;
+package cz.cvut.fel.omo.inspection;
 
 import java.util.HashMap;
 import java.util.HashSet;

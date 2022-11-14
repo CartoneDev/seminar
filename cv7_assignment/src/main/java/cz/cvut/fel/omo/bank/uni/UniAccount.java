@@ -1,6 +1,6 @@
-package cz.cvut.fel.omo.cv7.uni;
+package cz.cvut.fel.omo.bank.uni;
 
-import cz.cvut.fel.omo.cv7.Account;
+import cz.cvut.fel.omo.bank.Account;
 import org.javamoney.moneta.Money;
 
 import javax.money.MonetaryAmount;

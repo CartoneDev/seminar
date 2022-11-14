@@ -1,13 +1,13 @@
-package model;
+package cz.cvut.fel.omo.inspection.model;
 
 import java.util.ArrayList;
 
-import securityAndValidation.Email;
-import securityAndValidation.Max;
-import securityAndValidation.Min;
-import securityAndValidation.NotNull;
-import securityAndValidation.Password;
-import securityAndValidation.UiUserRoles;
+import cz.cvut.fel.omo.inspection.securityAndValidation.Email;
+import cz.cvut.fel.omo.inspection.securityAndValidation.Max;
+import cz.cvut.fel.omo.inspection.securityAndValidation.Min;
+import cz.cvut.fel.omo.inspection.securityAndValidation.NotNull;
+import cz.cvut.fel.omo.inspection.securityAndValidation.Password;
+import cz.cvut.fel.omo.inspection.securityAndValidation.UiUserRoles;
 
 //@Email(message="all atributes must be in email format.")
 //@Password

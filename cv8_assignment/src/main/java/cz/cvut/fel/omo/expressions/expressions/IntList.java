@@ -1,7 +1,7 @@
-package cz.cvut.fel.omo.cv8.expressions;
+package cz.cvut.fel.omo.expressions.expressions;
 
 import com.google.common.collect.ImmutableList;
-import cz.cvut.fel.omo.cv8.visitors.ListExpressionVisitor;
+import cz.cvut.fel.omo.expressions.visitors.ListExpressionVisitor;
 
 public class IntList implements ListExpression {
 

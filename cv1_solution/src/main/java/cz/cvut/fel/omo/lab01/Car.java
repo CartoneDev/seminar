@@ -1,4 +1,4 @@
-package cz.cvut.fel.pjv.lab01;
+package cz.cvut.fel.omo.lab01;
 
 import java.util.ArrayList;
 import java.util.List;

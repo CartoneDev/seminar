@@ -1,4 +1,4 @@
-package cz.cvut.fel.omo;
+package cz.cvut.fel.omo.server;
 
 public interface Observable {
 

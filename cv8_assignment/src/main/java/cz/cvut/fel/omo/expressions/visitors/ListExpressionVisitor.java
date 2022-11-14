@@ -1,4 +1,4 @@
-package cz.cvut.fel.omo.cv8.visitors;
+package cz.cvut.fel.omo.expressions.visitors;
 
 import cz.cvut.fel.omo.cv8.expressions.IntList;
 

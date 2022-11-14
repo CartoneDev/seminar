@@ -1,4 +1,4 @@
-package cz.cvut.fel.omo;
+package cz.cvut.fel.omo.iterator;
 
 import org.junit.Before;
 import org.junit.Test;

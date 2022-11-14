@@ -1,4 +1,4 @@
-package list;
+package cz.cvut.fel.omo.list;
 
 import java.util.ListIterator;
 import java.util.NoSuchElementException;

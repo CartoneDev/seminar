@@ -1,4 +1,4 @@
-package securityAndValidation;
+package cz.cvut.fel.omo.inspection.securityAndValidation;
 
 import java.lang.reflect.Field;
 import java.util.ArrayList;
@@ -7,9 +7,9 @@ import java.util.List;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-import metamodel.AfAnnotation;
-import metamodel.MetaModel;
-import main.AFContext;
+import cz.cvut.fel.omo.inspection.metamodel.AfAnnotation;
+import cz.cvut.fel.omo.inspection.metamodel.MetaModel;
+import cz.cvut.fel.omo.inspection.AFContext;
 
 public class EmailChecker {
 

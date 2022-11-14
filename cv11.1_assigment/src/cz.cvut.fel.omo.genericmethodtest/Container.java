@@ -1,4 +1,4 @@
-package genericmethodtest;
+package cz.cvut.fel.omo.genericmethodtest;
 
 public class Container {
 

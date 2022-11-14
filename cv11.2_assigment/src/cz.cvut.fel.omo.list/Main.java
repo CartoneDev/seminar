@@ -1,4 +1,4 @@
-package main;
+package cz.cvut.fel.omo.list;
 
 public class Main {
 

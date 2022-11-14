@@ -1,4 +1,4 @@
-package cz.cvut.fel.omo.cv8.expressions;
+package cz.cvut.fel.omo.expressions.expressions;
 
 public class VarList {
 

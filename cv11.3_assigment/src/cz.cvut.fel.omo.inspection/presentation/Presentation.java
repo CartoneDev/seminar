@@ -1,4 +1,4 @@
-package presentation;
+package cz.cvut.fel.omo.inspection.presentation;
 
 import java.lang.annotation.Annotation;
 import java.lang.reflect.Field;
@@ -9,23 +9,23 @@ import java.util.Iterator;
 import java.util.Map;
 import javax.naming.Context;
 
-import main.AFContext;
+import cz.cvut.fel.omo.inspection.metamodel.AFContext;
 
 
-import securityAndValidation.Email;
-import securityAndValidation.Max;
-import securityAndValidation.Min;
-import securityAndValidation.NotNull;
-import securityAndValidation.NotNullChecker;
-import securityAndValidation.Password;
-import securityAndValidation.PasswordChecker;
-import securityAndValidation.SecurityChecker;
-import securityAndValidation.UiUserRoles;
+import cz.cvut.fel.omo.inspection.securityAndValidation.Email;
+import cz.cvut.fel.omo.inspection.securityAndValidation.Max;
+import cz.cvut.fel.omo.inspection.securityAndValidation.Min;
+import cz.cvut.fel.omo.inspection.securityAndValidation.NotNull;
+import cz.cvut.fel.omo.inspection.securityAndValidation.NotNullChecker;
+import cz.cvut.fel.omo.inspection.securityAndValidation.Password;
+import cz.cvut.fel.omo.inspection.securityAndValidation.PasswordChecker;
+import cz.cvut.fel.omo.inspection.securityAndValidation.SecurityChecker;
+import cz.cvut.fel.omo.inspection.securityAndValidation.UiUserRoles;
 
-import metamodel.*;
-import model.ClassExample;
+import cz.cvut.fel.omo.inspection.metamodel.*;
+import cz.cvut.fel.omo.inspection.model.ClassExample;
 
-import main.Main;
+import cz.cvut.fel.omo.inspection.Main;
 
 //@TargetApi(Build.VERSION_CODES.JELLY_BEAN_MR1)
 public class Presentation {

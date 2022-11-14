@@ -1,9 +1,9 @@
-package cz.cvut.fel.omo.cv7.uni;
+package cz.cvut.fel.omo.bank.uni;
 
-import cz.cvut.fel.omo.cv7.AbstractBankFactory;
-import cz.cvut.fel.omo.cv7.Account;
-import cz.cvut.fel.omo.cv7.BankOffice;
-import cz.cvut.fel.omo.cv7.Loan;
+import cz.cvut.fel.omo.bank.AbstractBankFactory;
+import cz.cvut.fel.omo.bank.Account;
+import cz.cvut.fel.omo.bank.BankOffice;
+import cz.cvut.fel.omo.bank.Loan;
 
 import javax.money.MonetaryAmount;
 

@@ -1,4 +1,4 @@
-package list;
+package cz.cvut.fel.omo.list;
 
 import java.util.Iterator;
 import java.util.ListIterator;

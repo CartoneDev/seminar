@@ -1,4 +1,4 @@
-package securityAndValidation;
+package cz.cvut.fel.omo.inspection.securityAndValidation;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;

@@ -1,4 +1,4 @@
-package cz.cvut.fel.omo.cv10;
+package cz.cvut.fel.omo.stockmarket;
 
 public class Transaction {
     private final Trader trader;

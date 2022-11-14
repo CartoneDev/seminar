@@ -1,10 +1,10 @@
-package cz.cvut.fel.omo.cv8;
+package cz.cvut.fel.omo.expressions;
 
 import com.google.common.collect.ImmutableList;
-import cz.cvut.fel.omo.cv8.expressions.Context;
-import cz.cvut.fel.omo.cv8.expressions.IntList;
-import cz.cvut.fel.omo.cv8.expressions.ListExpression;
-import cz.cvut.fel.omo.cv8.visitors.PrintListExpressionVisitor;
+import cz.cvut.fel.omo.expressions.expressions.Context;
+import cz.cvut.fel.omo.expressions.expressions.IntList;
+import cz.cvut.fel.omo.expressions.expressions.ListExpression;
+import cz.cvut.fel.omo.expressions.visitors.PrintListExpressionVisitor;
 
 public class ExpressionExample {
 

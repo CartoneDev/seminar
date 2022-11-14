@@ -1,7 +1,7 @@
-package cz.cvut.fel.omo;
+package cz.cvut.fel.omo.server;
 
-import cz.cvut.fel.omo.client.StockExchangeClient;
-import cz.cvut.fel.omo.server.StockExchangeServer;
+import cz.cvut.fel.omo.server.client.StockExchangeClient;
+import cz.cvut.fel.omo.server.server.StockExchangeServer;
 
 public class Main {
 

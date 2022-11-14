@@ -1,7 +1,7 @@
-package cz.cvut.fel.omo.client;
+package cz.cvut.fel.omo.server.client;
 
-import cz.cvut.fel.omo.Observer;
-import cz.cvut.fel.omo.server.CryptoCurrency;
+import cz.cvut.fel.omo.server.Observer;
+import cz.cvut.fel.omo.server.server.CryptoCurrency;
 
 import javax.money.MonetaryAmount;
 

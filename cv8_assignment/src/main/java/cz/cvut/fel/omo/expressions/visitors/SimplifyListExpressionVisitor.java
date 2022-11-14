@@ -1,7 +1,7 @@
-package cz.cvut.fel.omo.cv8.visitors;
+package cz.cvut.fel.omo.expressions.visitors;
 
-import cz.cvut.fel.omo.cv8.expressions.IntList;
-import cz.cvut.fel.omo.cv8.expressions.ListExpression;
+import cz.cvut.fel.omo.expressions.expressions.IntList;
+import cz.cvut.fel.omo.expressions.expressions.ListExpression;
 
 public class SimplifyListExpressionVisitor implements ListExpressionVisitor {
 

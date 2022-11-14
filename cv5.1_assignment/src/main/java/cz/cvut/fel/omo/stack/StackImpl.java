@@ -1,4 +1,4 @@
-package cz.cvut.fel.omo;
+package cz.cvut.fel.omo.stack;
 
 import java.util.EmptyStackException;
 

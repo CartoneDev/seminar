@@ -1,9 +1,7 @@
 package cz.cvut.fel.omo;
 
-import cz.cvut.fel.omo.cv7.Account;
-import cz.cvut.fel.omo.cv7.BankOffice;
-import cz.cvut.fel.omo.cv7.Loan;
-import cz.cvut.fel.omo.cv7.uni.UniBankFactory;
+import cz.cvut.fel.omo.bank.BankOffice;
+import cz.cvut.fel.omo.bank.uni.UniBankFactory;
 import org.javamoney.moneta.Money;
 import org.junit.Assert;
 import org.junit.Before;

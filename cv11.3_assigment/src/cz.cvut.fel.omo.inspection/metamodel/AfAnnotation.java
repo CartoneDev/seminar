@@ -1,4 +1,4 @@
-package metamodel;
+package cz.cvut.fel.omo.inspection.metamodel;
 
 import java.util.HashSet;
 import java.util.Set;

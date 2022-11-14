@@ -1,8 +1,8 @@
-package model;
+package cz.cvut.fel.omo.model;
 
-import securityAndValidation.Email;
-import securityAndValidation.NotNull;
-import securityAndValidation.UiUserRoles;
+import cz.cvut.fel.omo.inspection.securityAndValidation.Email;
+import cz.cvut.fel.omo.inspection.securityAndValidation.NotNull;
+import cz.cvut.fel.omo.inspection.securityAndValidation.UiUserRoles;
 
 //@NotNull(message="all attributes can not be null.")
 public class ClassExample2{

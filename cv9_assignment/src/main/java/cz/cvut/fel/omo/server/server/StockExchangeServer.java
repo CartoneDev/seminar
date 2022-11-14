@@ -1,7 +1,7 @@
 
-package cz.cvut.fel.omo.server;
+package cz.cvut.fel.omo.server.server;
 
-import cz.cvut.fel.omo.Observer;
+import cz.cvut.fel.omo.server.Observer;
 
 import javax.money.MonetaryAmount;
 import java.util.Collection;

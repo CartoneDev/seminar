@@ -1,4 +1,4 @@
-package cz.cvut.fel.pjv.lab01;
+package cz.cvut.fel.omo.lab01;
 
 import java.awt.*;
 import java.time.LocalDate;

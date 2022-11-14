@@ -1,4 +1,4 @@
-package cz.cvut.fel.omo;
+package cz.cvut.fel.omo.stack;
 
 /**
  * TODO: implement class using adapter pattern

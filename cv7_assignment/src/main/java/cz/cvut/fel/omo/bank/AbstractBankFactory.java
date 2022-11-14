@@ -1,4 +1,4 @@
-package cz.cvut.fel.omo.cv7;
+package cz.cvut.fel.omo.bank;
 
 import javax.money.MonetaryAmount;
 
