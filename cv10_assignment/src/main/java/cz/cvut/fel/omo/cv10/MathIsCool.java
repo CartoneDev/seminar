@@ -1,4 +1,4 @@
-package cz.cvut.fel.omo.stockmarket;
+package cz.cvut.fel.omo.cv10;
 
 import java.util.ArrayList;
 import java.util.List;

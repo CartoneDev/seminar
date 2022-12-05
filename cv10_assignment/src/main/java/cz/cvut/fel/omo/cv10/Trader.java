@@ -1,4 +1,4 @@
-package cz.cvut.fel.omo.stockmarket;
+package cz.cvut.fel.omo.cv10;
 
 public class Trader {
     private final String name;
